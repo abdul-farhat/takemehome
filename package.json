@@ -1,0 +1,16 @@
+{
+  "name": "takemehome",
+  "version": "1.0.0",
+  "description": "Calculate how long it'll take to get home in commandline",
+  "main": "index.js",
+  "scripts": {
+    "home": "node index.js"
+  },
+  "author": "Abdul",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "figlet": "^1.2.3",
+    "puppeteer": "^1.17.0"
+  }
+}
