@@ -13,6 +13,6 @@ npm install
 ## Usage
 
 ```
-FROM={POSTCODE} TO={POSTALCODE} npm run home
+FROM={POSTALCODE} TO={POSTALCODE} npm run home
 ```
 
